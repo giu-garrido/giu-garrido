@@ -3,7 +3,7 @@
 **`Data Scientist`**
 
 Hi, I'm Giulia, a student at Pontífica Universidade Católica de Campinas in Brazil, São Paulo. Currently majoring in Data Science & Artificial Intelligence and working as a Teacher Assistant in Statistics & Inference. I'm passionate
-about puzzles, logic and everything data.
+about puzzles, logic and everything data related.
 
 ## 🛠️ Tech Stack  
 - **Programming**: Python, C  
