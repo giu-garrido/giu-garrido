@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there! 👋 I'm Giulia
 
-<!--
-**giu-garrido/giu-garrido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science & Artificial Intelligence student  
+📊 Teaching Assistant in Statistics & Inference  
+🔍 Interested in data analysis, machine learning, and search algorithms  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack  
+- **Programming**: Python, C  
+- **Libraries & Tools**: Pandas, NumPy, Scikit-learn, Matplotlib  
+- **Databases**: SQL, MongoDB  
+- **Fields of Interest**: Data Science, Artificial Intelligence, Statistics  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](www.linkedin.com/in/giulia-m-garrido)
