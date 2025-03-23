@@ -1,4 +1,4 @@
-# Giulia Garrido
+# ✨ Giulia Garrido
 
 **`Data Scientist`**
 
