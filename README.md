@@ -2,7 +2,7 @@
 
 🎓 Data Science & Artificial Intelligence student  
 📊 Teaching Assistant in Statistics & Inference  
-🔍 Interested in data analysis, machine learning, and search algorithms  
+🔍 Interested in playing detective with data!
 
 ## 🛠️ Tech Stack  
 - **Programming**: Python, C  
