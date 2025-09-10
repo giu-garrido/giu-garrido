@@ -8,7 +8,7 @@ about puzzles, logic and everything data related.
 ## 🛠️ Tech Stack  
 - **Programming**: Python, C  
 - **Libraries & Tools**: Pandas, NumPy, Scikit-learn, Matplotlib, Networkx  
-- **Databases**: SQL, MongoDB  
+- **Databases**: MYSQL, MongoDB  
 - **Fields of Interest**: Data Science, Artificial Intelligence, Statistics
 
 ## 📫 Connect with Me  
